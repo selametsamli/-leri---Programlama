@@ -40,4 +40,5 @@ void sort_string(char *s){
     *(sonuc+d) = '\0';
     strcpy(s,sonuc);
     free(sonuc);
+    
 }
