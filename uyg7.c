@@ -8,7 +8,7 @@ int main(){
     int not,i,ogrNo;
 
     printf("Ogrenci Sayisini Giriniz: ");
-    scanf("%d",&ogrNo);
+    scanf("%drm",&ogrNo);
 
     FILE *fptr;
     fptr = fopen("ogr.txt","w");
