@@ -27,8 +27,6 @@ public:
         return in;
     }
 
-
-
 int main(){
 
     Point cPoint1,cPoint2;
@@ -36,8 +34,6 @@ int main(){
     cin>>cPoint1;
 
     cout<<cPoint1.getX()<<endl;
-
-
 
     return 0;
 }
