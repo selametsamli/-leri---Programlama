@@ -25,7 +25,5 @@ int main(){
     Cents cCentsSum = cCents1 + cCents2;
 
     cout << cCentsSum.getCents()<<endl;
-
-
     return 0;
 }
