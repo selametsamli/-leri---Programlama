@@ -14,14 +14,10 @@ public:
     }
 
     friend Cents operator+(const Cents &c1, const Cents &c2);
-
 };
-
     Cents operator+(const Cents &c1, const Cents &c2){
         return Cents(c1.value+c2.value);
     }
-
-
 int main(){
 
     Cents cCents1(6);
