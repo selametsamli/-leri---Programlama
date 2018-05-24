@@ -2,7 +2,6 @@
 
 using namespace std; 
 
-
 class Dikdortgen {
 
     int en,boy;
@@ -24,8 +23,6 @@ public:
     }
 
 };
-
-
 
 int main (){
 
