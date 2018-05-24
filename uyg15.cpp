@@ -31,7 +31,5 @@ int main(){
     Display cDisplay;
 
     cDisplay.DisplayItem(cStorage);
-
-
     return 0;
 }
